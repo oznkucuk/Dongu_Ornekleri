@@ -1,0 +1,16 @@
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\bin\Debug\net5.0\login_uygulamasi.exe
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\bin\Debug\net5.0\login_uygulamasi.deps.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\bin\Debug\net5.0\login_uygulamasi.runtimeconfig.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\bin\Debug\net5.0\login_uygulamasi.runtimeconfig.dev.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\bin\Debug\net5.0\login_uygulamasi.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\bin\Debug\net5.0\login_uygulamasi.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\obj\Debug\net5.0\login_uygulamasi.csproj.AssemblyReference.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\obj\Debug\net5.0\login_uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\obj\Debug\net5.0\login_uygulamasi.AssemblyInfoInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\obj\Debug\net5.0\login_uygulamasi.AssemblyInfo.cs
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\obj\Debug\net5.0\login_uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\obj\Debug\net5.0\login_uygulamasi.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\obj\Debug\net5.0\refint\login_uygulamasi.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\obj\Debug\net5.0\login_uygulamasi.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\obj\Debug\net5.0\login_uygulamasi.genruntimeconfig.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\login_uygulamasi\obj\Debug\net5.0\ref\login_uygulamasi.dll
